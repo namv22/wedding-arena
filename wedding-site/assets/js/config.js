@@ -129,7 +129,7 @@ window.WEDDING_CONFIG = {
     { name: { vi: "Chú rể Hoàng Nam", en: "Hoàng Nam (Groom)" }, phone: "+84 90 000 0000", zalo: "https://zalo.me/84900000000" }, // TODO phone
     { name: { vi: "Cô dâu Bích Thảo", en: "Bích Thảo (Bride)" }, phone: "+84 90 000 0001", zalo: "https://zalo.me/84900000001" }, // TODO phone
   ],
-  rsvpBy: { vi: "Vui lòng phản hồi trước 14 · 02 · 2027", en: "Kindly reply before 14 February 2027" }, // TODO
+  rsvpBy: { vi: "Vui lòng phản hồi trước 20 · 11 · 2026", en: "Kindly reply before 20 November 2026" }, // TODO
   email: "hello@example.com", // TODO
 
   /* --- Extras ----------------------------------------------------------- */
