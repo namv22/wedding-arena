@@ -1,4 +1,4 @@
-# Minh &amp; Thảo — Wedding Website
+# Nam &amp; Thảo — Wedding Website
 
 Thiệp cưới trực tuyến, song ngữ Việt / Anh. Static site — no build step, no backend, no tracking.
 
