@@ -36,7 +36,7 @@ window.WEDDING_CONFIG = {
 
   /* --- Headlines -------------------------------------------------------- */
   copy: {
-    htmlTitle: { vi: "Hoàng Nam & Bích Thảo — Thiệp Cưới", en: "Hoàng Nam & Bích Thảo — Wedding Invitation" },
+    htmlTitle: { vi: "Bích Thảo & Hoàng Nam — Thiệp Cưới", en: "Bích Thảo & Hoàng Nam — Wedding Invitation" },
     eyebrow:   { vi: "Trân trọng kính mời", en: "Together with their families" },
     saveTheDate: { vi: "Save the Date", en: "Save the Date" },
     scroll:    { vi: "Cuộn xuống", en: "Scroll" },
@@ -55,7 +55,7 @@ window.WEDDING_CONFIG = {
           "Your presence on our happiest day is the most precious gift we could ask for. " +
           "Come in your finest áo dài, and bring your brightest smile.",
     },
-    letterSign: { vi: "Hoàng Nam & Bích Thảo", en: "Hoàng Nam & Bích Thảo" },
+    letterSign: { vi: "Bích Thảo & Hoàng Nam", en: "Bích Thảo & Hoàng Nam" },
 
     /* Section headings */
     detailsTitle:  { vi: "Ngày Trọng Đại", en: "The Big Day" },
