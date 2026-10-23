@@ -88,7 +88,7 @@ window.WEDDING_CONFIG = {
       dress:   { vi: "Áo dài hoặc trang phục lịch sự", en: "Áo dài or smart-casual" },
       note:    { vi: "Đón khách từ 09:00. Lễ được cử hành đúng giờ, mong bạn đến sớm một chút.",
                  en: "Doors open at 09:00. The ceremony starts on time — please arrive a little early." },
-      mapUrl:  "https://maps.app.goo.gl/Z4tYzLF6cDQJb7Tn9",                   // TODO: paste a Google Maps share link
+      mapUrl:  "https://maps.app.goo.gl/4as4UfYacYR1Vm8cA",                   // TODO: paste a Google Maps share link
     },
     {
       icon: "cup",
