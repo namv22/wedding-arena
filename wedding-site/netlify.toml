@@ -1,0 +1,28 @@
+# Netlify configuration — static site, no build step.
+[build]
+  publish = "."
+
+# Long-lived caching for hashed-ish static assets; HTML stays fresh.
+[[headers]]
+  for = "/assets/*"
+  [headers.values]
+    Cache-Control = "public, max-age=604800"
+
+[[headers]]
+  for = "/index.html"
+  [headers.values]
+    Cache-Control = "public, max-age=0, must-revalidate"
+
+# Basic hardening headers (safe for a static marketing page).
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Content-Type-Options = "nosniff"
+    Referrer-Policy = "strict-origin-when-cross-origin"
+    X-Frame-Options = "SAMEORIGIN"
+
+# Friendly 404 -> back to the invitation.
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200

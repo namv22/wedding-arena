@@ -1,0 +1,11 @@
+# OS / editor noise
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+
+# Local preview / tooling
+wedding-preview.html
+tools/__pycache__/
+node_modules/
